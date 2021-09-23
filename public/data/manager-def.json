@@ -1,0 +1,62 @@
+{
+  "lemonade-manager-01": {
+    "business": "lemonade",
+    "cost": 1000,
+    "name": "Jackie Lemone",
+    "priority": 0
+  },
+  "coffee-manager-01": {
+    "business": "coffee",
+    "cost": 15000,
+    "name": "Mary-Jane Brew",
+    "priority": 0
+  },
+  "pizza-manager-01": {
+    "business": "pizza",
+    "cost": 100000,
+    "name": "Mario And His Other Brother",
+    "priority": 0
+  },
+  "taxi-manager-01": {
+    "business": "taxi",
+    "cost": 500000,
+    "name": "Diana Wings",
+    "priority": 0
+  },
+  "fishing-manager-01": {
+    "business": "fishing",
+    "cost": 1200000,
+    "name": "Joey Carpington III",
+    "priority": 0
+  },
+  "newspaper-manager-01": {
+    "business": "newspaper",
+    "cost": 10000000,
+    "name": "Adrianna Hoofinhoof",
+    "priority": 0
+  },
+  "soccer-manager-01": {
+    "business": "soccer",
+    "cost": 111111111,
+    "name": "Jose Meowrinho",
+    "priority": 0
+  },
+  "movie-manager-01": {
+    "business": "movie",
+    "cost": 555555555,
+    "name": "Uwe Bollinger",
+    "priority": 0
+  },
+  "bank-manager-01": {
+    "business": "bank",
+    "cost": 10000000000,
+    "name": "Queen of Blades",
+    "priority": 0
+  },
+  "oil-manager-01": {
+    "business": "oil",
+    "cost": 100000000000,
+    "name": "Johnny Rocknroffler",
+    "priority": 0
+  }
+}

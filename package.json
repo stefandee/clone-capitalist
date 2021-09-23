@@ -1,0 +1,38 @@
+{
+	"name": "clone-capitalist",
+	"version": "1.0.0",
+	"description": "A minimal functionalities clone of Adventure Capitalist made for a coding challenge/take-home assignment",
+	"scripts": {
+		"start": "parcel src/index.html -p 8000",
+		"build": "parcel build src/index.html --no-source-maps --public-url . --out-dir dist",
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"lint": "eslint ./src --ext .js,.jsx,.ts,.tsx"
+	},
+	"author": "Stefan Dicu",
+	"license": "GPL-3.0-or-later",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:stefandee/clone-capitalist.git"
+	},
+	"homepage": "https://www.pirongames.com",
+	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "^2.29.0",
+		"@typescript-eslint/parser": "^2.29.0",
+		"cssnano": "^4.1.10",
+		"eslint": "^6.8.0",
+		"minimist": ">=1.2.2",
+		"parcel-plugin-clean-easy": "^1.0.2",
+		"parcel-plugin-static-files-copy": "^2.4.3",
+		"typescript": "^3.8.3"
+	},
+	"dependencies": {
+		"phaser": "^3.24.1"
+	},
+	"parcelCleanPaths": [
+		"dist"
+	],
+	"staticFiles": {
+		"staticPath": "public",
+		"watcherGlob": "**"
+	}
+}

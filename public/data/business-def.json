@@ -1,0 +1,83 @@
+{
+  "lemonade" : {
+    "cost": 4,
+    "costFactor": 1.07,
+    "profit": 1,
+    "profitFactor": 1,
+    "time": 2,
+    "displayName": "Lemonade Stand"
+  },
+  "coffee" : {
+    "cost": 60,
+    "costFactor": 1.1,
+    "profit": 60,
+    "profitFactor": 1,
+    "time": 3,
+    "displayName": "Coffee Shop"
+  },
+  "pizza" : {
+    "cost": 720,
+    "costFactor": 1.1,
+    "profit": 540,
+    "profitFactor": 1,
+    "time": 6,
+    "displayName": "Pizzeria"
+  },
+  "taxi" : {
+    "cost": 8640,
+    "costFactor": 1.1,
+    "profit": 4320,
+    "profitFactor": 1,
+    "time": 12,
+    "displayName": "Taxi"
+  },
+  "fishing" : {
+    "cost": 103680,
+    "costFactor": 1.1,
+    "profit": 51840,
+    "profitFactor": 1,
+    "time": 24,
+    "displayName": "Fishing Boat"
+  },
+  "newspaper" : {
+    "cost": 1244160,
+    "costFactor": 1.1,
+    "profit": 622080,
+    "profitFactor": 1,
+    "time": 96,
+    "displayName": "Newspaper"
+  },
+  "soccer" : {
+    "cost": 14929920,
+    "costFactor": 1.1,
+    "profit": 7464960,
+    "profitFactor": 1,
+    "time": 390,
+    "displayName": "Soccer Club"
+  },
+  "movie" : {
+    "cost": 179159040,
+    "costFactor": 1.1,
+    "profit": 89579520,
+    "profitFactor": 1,
+    "time": 1950,
+    "displayName": "Movie Studio"
+  },
+  "bank" : {
+    "cost": 2149908480,
+    "costFactor": 1.1,
+    "profit": 1074954240,
+    "profitFactor": 1,
+    "time": 11700,
+    "displayName": "Bank"
+  },
+  "oil" : {
+    "cost": 25798901760,
+    "costFactor": 1.1,
+    "profit": 12899450880,
+    "profitFactor": 1,
+    "time": 58500,
+    "displayName": "Oil Company"
+  }
+}
+
