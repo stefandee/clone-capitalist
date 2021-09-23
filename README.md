@@ -1,7 +1,7 @@
 # Clone Capitalist
-> Source code for a game dev interview coding challenge that aimed to create a minimal working clone of Adventure Capitalist.
 
-![License](https://www.gnu.org/licenses/gpl-3.0.en.html)
+## License
+https://www.gnu.org/licenses/gpl-3.0.en.html
 
 ## Install And Run
 
