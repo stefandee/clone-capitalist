@@ -37,7 +37,7 @@ Since Cocos Creator was banned from this challenge (which is my tool of choice f
 The whole project was developed in 16 hours: 5 hours were spent learning Phaser, about 3 hours on creating the graphics (well, cloning), 
 and 8 hours on the game coding and testing.
 
-## Screeshots
+## Screenshots
 
 ![clone capitalist gameplay](assets-dev/media/clone-capitalist-gameplay.gif "Game play")
 
