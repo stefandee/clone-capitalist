@@ -39,7 +39,7 @@ and 8 hours on the game coding and testing.
 
 ## Screeshots
 
-![clone capitalist gameplay](.media/clone-capitalist-gameplay.gif "Game play")
+![clone capitalist gameplay](assets-dev/media/clone-capitalist-gameplay.gif "Game play")
 
 ## Art&Art Pipeline
 Graphics were created from scratch using Inkscape. The master graphics file is located in assets-dev\art\general
